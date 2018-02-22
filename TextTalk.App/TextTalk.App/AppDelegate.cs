@@ -20,6 +20,13 @@ namespace TextTalk.App
 			set;
 		}
 
+
+        /// <summary>
+        /// Test
+        /// </summary>
+        /// <param name="application"></param>
+        /// <param name="launchOptions"></param>
+        /// <returns></returns>
 		public override bool FinishedLaunching (UIApplication application, NSDictionary launchOptions)
 		{
             // Override point for customization after application launch.
