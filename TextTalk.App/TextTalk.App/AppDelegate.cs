@@ -1,8 +1,8 @@
 ﻿using Foundation;
 using UIKit;
-using Microsoft.AppCenter;
-using Microsoft.AppCenter.Analytics;
-using Microsoft.AppCenter.Crashes;
+//using Microsoft.AppCenter;
+//using Microsoft.AppCenter.Analytics;
+//using Microsoft.AppCenter.Crashes;
 
 namespace TextTalk.App
 {
@@ -32,7 +32,7 @@ namespace TextTalk.App
             // Override point for customization after application launch.
             // If not required for your application you can safely delete this method
             //Publish app...
-            AppCenter.Start("046ec2e5-3ed7-4847-9d2e-b6ab1af42749", typeof(Analytics), typeof(Crashes));
+            //AppCenter.Start("046ec2e5-3ed7-4847-9d2e-b6ab1af42749", typeof(Analytics), typeof(Crashes));
             return true;
 		}
 
