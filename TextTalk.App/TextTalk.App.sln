@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTalk.App", "TextTalk.App\TextTalk.App.csproj", "{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}.Release|iPhone.Build.0 = Release|iPhone
+		{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0FA55AE6-FB45-4CD7-B2EC-D3FF545834A4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E500D35E-440D-453A-8BD5-A62320544954}
+	EndGlobalSection
+EndGlobal
